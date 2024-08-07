@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tests", "tests\Tests\Tests.csproj", "{2D70DD70-2C3A-4AE4-8C0F-BFE768E8AF0B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Extensions", "src\Extensions\Extensions.csproj", "{722693CA-CC74-45CF-8086-DD814B88EE02}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2D70DD70-2C3A-4AE4-8C0F-BFE768E8AF0B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D70DD70-2C3A-4AE4-8C0F-BFE768E8AF0B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D70DD70-2C3A-4AE4-8C0F-BFE768E8AF0B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D70DD70-2C3A-4AE4-8C0F-BFE768E8AF0B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{722693CA-CC74-45CF-8086-DD814B88EE02}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{722693CA-CC74-45CF-8086-DD814B88EE02}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{722693CA-CC74-45CF-8086-DD814B88EE02}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{722693CA-CC74-45CF-8086-DD814B88EE02}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
